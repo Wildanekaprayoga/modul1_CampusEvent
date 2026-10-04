@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CampusEvent",
+    "slug": "campus-event-sdk57",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.campusevent.demo"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
